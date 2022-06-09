@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 ### Hi there 👋
 #### My name is Demian, and i'm a software developer based in Germany📍
 
