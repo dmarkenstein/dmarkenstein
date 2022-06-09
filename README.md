@@ -2,12 +2,6 @@
 
 ### Hi there 👋
 #### My name is Demian, and i'm a software developer based in Germany📍
-
-- 🔭 I’m currently working on the hmstr Portal 🐹
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dmarkenstein.visitor-badge)
-[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/15512163/)](https://stackoverflow.com/users/15512163/demian)
-
 ![image info](https://github-readme-stats.vercel.app/api?username=dmarkenstein)
 
 ![image info](https://img.shields.io/badge/Apple-MacBook_Pro_2022-999999?style=for-the-badge&logo=apple&logoColor=white)
