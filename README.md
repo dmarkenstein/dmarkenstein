@@ -24,7 +24,7 @@ My name is demian, and i'm a software developer based in Germany📍
 ![image info](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 📊 My Stats
-![image info](https://github-readme-stats.vercel.app/api?username=dmarkenstein)
+![Demian's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmarkenstein&count_private=true)
 
 <!--
 **dmarkenstein/dmarkenstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
