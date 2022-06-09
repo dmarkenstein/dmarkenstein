@@ -1,4 +1,8 @@
 ### Hi there 👋
+#### My name is Demian, and i'm a software developer based in Germany📍
+
+- 🔭 I’m currently working on the hmstr Portal 🐹
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=dmarkenstein.visitor-badge)
 [![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/15512163/)](https://stackoverflow.com/users/15512163/demian)
 
