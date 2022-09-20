@@ -1,7 +1,6 @@
 ![Header](./github-header-image.png)
-I've got 99 problems and horizontal overflow is several of them.
 
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px" />
+# I've got 99 problems and horizontal overflow is several of them.
 ### ❓ About me
 My name is Demian, and i'm a software developer based in Germany📍
 
