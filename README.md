@@ -24,11 +24,11 @@ My name is Demian, and i'm a software developer based in Germany📍
 
 ![image info](https://forthebadge.com/images/badges/made-with-crayons.svg)
 
-[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+![image info](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)]
 
-[![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)](https://forthebadge.com)
+![image info](https://forthebadge.com/images/badges/it-works-why.svg)]
 
-[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
+![image info](https://forthebadge.com/images/badges/works-on-my-machine.svg)]
 
 <!--
 **dmarkenstein/dmarkenstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
